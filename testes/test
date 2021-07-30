@@ -1,0 +1,13 @@
+python3 consumer.py &
+python3 consumer1.py &
+python3 consumer2.py &
+python3 consumer3.py &
+python3 consumer4.py &
+
+python3 producer.py &
+python3 producer1.py &
+python3 producer2.py &
+python3 producer3.py &
+python3 producer4.py &
+
+
