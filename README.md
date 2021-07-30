@@ -27,8 +27,12 @@ Como forma de exemplo:
 ## Detalhes
 
 É possível encontrar todos os detalhes no [Relatório do Trabalho](/relatorio/CD_Message_Broker.pdf).
+
 ## Autores
 
  - **[Hugo Paiva de Almeida](https://github.com/hugofpaiva) - 93195** 
  - **[Carolina Araújo](https://github.com/carolinaaraujo00) - 93248**
+
+ ## Nota
+Classificação obtida de **19.2** valores em 20.
  
